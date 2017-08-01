@@ -14,5 +14,3 @@
     "webpack-dev-server": "^1.16.2"
   }
 }
-
-//basta rodar npm -i no diretorio em outro pc que ele baixa tuuuuuudo!
